@@ -1,4 +1,4 @@
-# Recipe App 🍰
+# Recipe Notebook 🍰
 
 This is an app that I built in response to a final project prompt that was given by a JavaScript course called [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/).
 
